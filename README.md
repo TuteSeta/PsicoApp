@@ -17,8 +17,7 @@ Puede acceder al video presentando la demo del proyecto <a href="https://drive.g
 
 Puede acceder a las slides utilizadas para presentar el proyecto <a href="https://gamma.app/docs/Revolucionando-el-Acceso-a-la-Terapia-nu79kntku5h4m4v?mode=present#card-oqgbm5l40mpyuy6" target="_blank">aquí</a>.
 
-Mi rol principalmente se enfocó en el trabajo de front, tanto en las visuales previas al chat como algunas preguntas las cuales fueron descartadas, pero decidimos concervar el código ante la posibilidad de ampliarse. 
-
+Mi rol se enfocó enteramente en el front, ofreciendo una presentacion para la intro del proyecto.
 
 ###
 
