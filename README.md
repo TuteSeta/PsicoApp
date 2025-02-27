@@ -36,7 +36,7 @@ Mi rol se enfocó enteramente en el front, ofreciendo una presentacion para la i
   <a href="https://www.linkedin.com/in/matias-zarandon-0307b534a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 
   </a>
-  <a href="https://wa.me/5492613400264?text=I'm%20interested%20in%20your%20GitHub%20profile " target="_blank">
+  <a href="https://wa.me/5492616013883?text=I'm%20interested%20in%20your%20GitHub%20profile " target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
