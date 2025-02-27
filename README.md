@@ -30,10 +30,10 @@ Mi rol se enfocó enteramente en el front, ofreciendo una presentacion para la i
 ###
 
 <div align="center">
-  <a href="mailto:nicolascorrea1910@gmail.com?Subject=Message%20from%20GitHub" target="_blank">
+  <a href="mailto:matiasjzarandon@gmail.com?Subject=Message%20from%20GitHub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /> 
   </a>
-  <a href="https://www.linkedin.com/in/nicolas-correa-serrat/" target="_blank">
+  <a href="https://www.linkedin.com/in/matias-zarandon-0307b534a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 
   </a>
   <a href="https://wa.me/5492613400264?text=I'm%20interested%20in%20your%20GitHub%20profile " target="_blank">
